@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.local.json
+outputs/
+.DS_Store
+.agents/
